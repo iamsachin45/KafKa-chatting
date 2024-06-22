@@ -9,6 +9,9 @@ An integration of Kafka with SpringBoot.
 # Execution 
 1. Follow this page : https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/ for running kafka locally.
 2. Run the springboot application.
+3. Send message through POST request.
+4. You can see the output below.
+
    ![image](https://github.com/iamsachin45/KafKa-chatting/assets/75352195/a0558e91-f914-41df-bb27-758560762b84)
 
 
